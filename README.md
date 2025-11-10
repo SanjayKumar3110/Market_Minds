@@ -28,8 +28,6 @@ This project combines **pattern recognition**, **reinforcement learning**, and *
 
 ---
 
----
-
 ##  Technical Stack
 
 - **Language:** Python 3.10+
@@ -97,10 +95,12 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ##  Author
 
 **Sanjay Kumar**
+
 Machine Learning & Trading Systems Developer
-📧 [[sanjaykumar78523sk@gmail.com](mailto:sanjaykumar78523sk@gmail.com)]
-🔗 [[GitHub Profile](https://github.com/SanjayKumar3110)]
-🔗 [[LinkedIn URL](https://www.linkedin.com/in/sanjaykumar785)]
+
+ [Gmail](mailto:sanjaykumar78523sk@gmail.com)
+ [GitHub Profile](https://github.com/SanjayKumar3110)
+ [LinkedIn URL](https://www.linkedin.com/in/sanjaykumar785)
 
 ---
 
