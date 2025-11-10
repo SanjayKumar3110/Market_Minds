@@ -84,6 +84,18 @@ This project combines **pattern recognition**, **reinforcement learning**, and *
 **Status:** Stable (Training & Testing Functional)
 **Next Milestone:** Real-time Trading Integration
 
+**Task to complete**
+
+| Area                | Guidelines                                                                                                                  |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Risk Management** | Never risk more than 1-2% of capital per trade. Implement stop-loss and max drawdown controls.                              |
+| **Regulatory**      | Consult local laws. Some countries require registering as an investment advisor or firm if using AI to manage client funds. |
+| **Logging**         | Log all predictions, actions, slippage, and latency.                                                                        |
+| **Backtesting**     | Should be statistically rigorous and avoid lookahead bias or overfitting.                                                   |
+| **Paper Trading**   | Run for **2–3 months** before live launch.                                                                                  |
+| **Model Updating**  | Models should be retrained periodically or adapt online (carefully)                                                         |
+| **Kill Switch**     | Emergency stop logic for market anomalies (e.g., flash crashes)                                                             |
+
 ---
 
 ##  License
